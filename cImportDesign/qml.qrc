@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/asset_imports/asset_imports.txt</file>
+        <file>qml/content/fonts/fonts.txt</file>
+        <file>qml/content/App.qml</file>
+        <file>qml/content/CMakeLists.txt</file>
+        <file>qml/content/Screen01.ui.qml</file>
+        <file>qml/imports/DesignTest/designer/plugin.metainfo</file>
+        <file>qml/imports/DesignTest/CMakeLists.txt</file>
+        <file>qml/imports/DesignTest/Constants.qml</file>
+        <file>qml/imports/DesignTest/DirectoryFontLoader.qml</file>
+        <file>qml/imports/DesignTest/EventListModel.qml</file>
+        <file>qml/imports/DesignTest/EventListSimulator.qml</file>
+        <file>qml/imports/DesignTest/qmldir</file>
+        <file>qml/imports/CMakeLists.txt</file>
+    </qresource>
+</RCC>
