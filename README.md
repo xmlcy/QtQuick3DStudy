@@ -11,4 +11,5 @@
 - [2.cTest3D](./2.cTest3D.md)
 - [3.cTestNew](./3.cTestNew.md)
 - [4.designTest](./4.designTest.md)
-- [5.cImportDesign](./5.cImportDesign)
+- [5.cImportDesign](./5.cImportDesign.md)
+- [6.cDeploy](./6.cDeploy.md)
